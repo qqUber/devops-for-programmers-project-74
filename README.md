@@ -19,7 +19,7 @@
 
 **Clone project**
 
-**Run**
+**Do make**
 
 ```bash
 make setup # load web application dependencies
