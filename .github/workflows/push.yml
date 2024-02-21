@@ -6,6 +6,9 @@ on:
     branches:
       - main
 
+env:
+    APP_IMAGE_NAME: qqUber/devops-for-programmers-project-74
+
 jobs:
   build:
     runs-on: ubuntu-latest
