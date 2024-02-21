@@ -2,7 +2,7 @@
 [![Actions Status](https://github.com/qqUber/devops-for-programmers-project-74/workflows/hexlet-check/badge.svg)](https://github.com/qqUber/devops-for-programmers-project-74/actions)
 
 ### Automatic tests and docker push status:
-[![Actions Status](https://github.com/qqUber/devops-for-programmers-project-74/workflows/push/badge.svg)](https://github.com/qqUber/devops-for-programmers-project-74/actions)
+[![push](https://github.com/qqUber/devops-for-programmers-project-74/actions/workflows/push.yml/badge.svg)](https://github.com/qqUber/devops-for-programmers-project-74/actions/workflows/push.yml)
 
 # DEVOPS FOR PROGRAMMERS
 
