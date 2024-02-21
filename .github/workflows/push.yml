@@ -7,7 +7,8 @@ on:
       - main
 
 env:
-    APP_IMAGE_NAME: qquber/devops-for-programmers-project-74
+
+    APP_IMAGE_NAME: akakhan/devops-for-programmers-project-74
 
 jobs:
   build:
